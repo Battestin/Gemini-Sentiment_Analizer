@@ -1,4 +1,4 @@
-# Sentiment Analyzer
+# Gemini Sentiment Analyzer
 
 Python tool that processes product reviews with Google Gemini 1.5 Flash to generate concise sentiment summaries, highlighting overall sentiment plus key strengths and weaknesses.
 
